@@ -1,0 +1,24 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: Avenir;
+	font-size: 18px;
+	margin: 0px;
+	background-color: #FFEFEF;
+	align-content: center;
+	text-align: center;
+}
+h1, h2, h3 {
+	font-family: Helvetica;
+	font-weight: bold;
+}
+a {
+	text-decoration: none;
+}
+p{
+	font-size: 30px;
+}
